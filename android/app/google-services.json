@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "675332652038",
+    "project_id": "trip-planner-task",
+    "storage_bucket": "trip-planner-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675332652038:android:63fed640c7b176c3325787",
+        "android_client_info": {
+          "package_name": "com.trip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKf8Ehwxd6dwrlBOthF_mrjzC8NKk8Dpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
